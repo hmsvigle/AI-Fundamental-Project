@@ -1,3 +1,14 @@
+# Fine Tuning Behaviour
+
+#💡 Concept:
+# Control your model's behavior with temperature: 0 = precise & consistent, 1 = creative & varied.
+
+# 🌡️ Temperature Scale:
+# 0.0              |     0.5       |          1.0
+#🎯 Precise        | ⚖️ Balanced   |    🎨 Creative
+
+
+
 import os
 from langchain_openai import ChatOpenAI
 
