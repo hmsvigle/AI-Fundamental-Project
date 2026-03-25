@@ -1,3 +1,13 @@
+####################################################################################################
+# 💡 Concept:
+# Different models excel at different tasks. Choose the right model for speed, cost, or capability!
+
+# ⚡ Fast & Low-cost - Simple tasks, quick responses
+# 🧠 Reasoning - Complex logic, analysis
+# 💻 Coding - Programming, algorithms
+# 💬 Chat - Conversations, creativity
+####################################################################################################
+                                                                 
 import os
 from langchain_openai import ChatOpenAI
 
