@@ -1,3 +1,7 @@
+# Advanced features include validation, partial variables, output parsers, and conditional logic for production applications.
+# INPUT (Template + Variables) --> VALIDATE (Check Rules) ==> OUTPUT (Safe Prompt) 
+
+
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, Field
